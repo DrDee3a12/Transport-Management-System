@@ -47,7 +47,7 @@ A console-based Transport Management System written in C++, designed for managin
 
 **Zalan**  
 _Automation & Backend Enthusiast_  
-GitHub: [yourusername](https://github.com/yourusername)
+GitHub: [DrDee3a12](https://github.com/DrDee3a12)
 
 ---
 
