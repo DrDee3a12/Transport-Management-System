@@ -41,6 +41,7 @@ A console-based Transport Management System written in C++, designed for managin
 ## 📸 Screenshots
 
 > _Add screenshots of login, dashboards, and key features here._
+[TMS_Superadmin_version.pdf](https://github.com/user-attachments/files/21315200/TMS_Superadmin_version.pdf)
 
 ---
 
