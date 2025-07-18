@@ -417,7 +417,6 @@ void aboutProgram() {
     cout << "????????????????????????????????????\n" << RESET;
     cout << BOLD << "Project: " << RESET << "Transport Management System\n";
     cout << BOLD << "Developer: " << RESET << "Muhammad Zalan Khan\n";
-    cout << BOLD << "Other Team Members: " << RESET << "Huzaifa Khan and Tawqeer Zia\n";
     cout << BOLD << "Version: " << RESET << "1.0\n";
     cout << BOLD << "Language: " << RESET << "C++ (MySQL Integration)\n";
     cout << BOLD << "Platform: " << RESET << "Linux and Windows\n";
